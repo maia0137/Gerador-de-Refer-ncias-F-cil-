@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Referências ABNT e APA",
+  "description": "Um aplicativo de alta precisão científica para gerar referências e citações em lote de acordo com as normas atualizadas da ABNT e APA (7ª edição). Oferece importação automática de metadados por DOI, exportação BibTeX para o Zotero e cópia formatada em Rich Text e Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
